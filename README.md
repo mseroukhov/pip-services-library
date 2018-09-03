@@ -1,16 +1,16 @@
 # <img src="https://github.com/pip-services/pip-services/blob/master/design/Logo.png" alt="Pip.Services Logo" style="max-width:30%"> <br/> Library of Reusable Microservices
 
 Unique features of [Pip.Services toolkit](http://github.com/pip-services/pip-services)
-allowed to create a library of reusable microservices that are due to the flexible componentized
-design can be configured to run on any platform, use variety of persistent and communication
-technologues and integrate with large number of infrastructure services. 
+allow to create a library of reusable microservices, due to the flexible componentized
+design can be configured to run on any platform, use a variety of persistent and communication
+technologues, and integrate with a large number of infrastructure services. 
 
 <div style="border: 1px solid #ccc">
   <img src="design/Overview.png" alt="Pip.Services Overview" style="display:block;">
 </div>
 
-The library contains constantly growing number of microservices, donated and supported by community contributors.
-They divided into several groups.
+The library contains a constantly growing number of microservices, donated and supported by community contributors.
+They are divided into several groups.
 
 ### Infrastructure microservices
 - [pip-services-logging](https://github.com/pip-services-infrastructure/pip-services-logging-node) - Distributed logging microservice. 
@@ -94,7 +94,7 @@ It stores configurations of user dashboards.
 
 ## Acknowledgements
 
-This project would not be possible without effort contributed by particular individuals.
+This project would not be possible without the effort contributed by particular individuals.
 
 - **Sergey Seroukhov** - the project founder, microservice architecture and runtime implementation
 - **Mark Zontak** - Node.js and .NET implementations, AWS integration
